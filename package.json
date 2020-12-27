@@ -1,6 +1,6 @@
 {
   "name": "movies_app_react",
-  "homepages": "https://meltem-karaagac.github.io/Movie_App_with_React/",
+  "homepage": "https://meltem-karaagac.github.io/Movie_App_with_React/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
